@@ -1,0 +1,6 @@
+{
+  "name": "دار السنديان | أتيليه النجارة الفنية",
+  "description": "موقع احترافي لدار السنديان للنجارة المعمارية والأثاث الخشبي المصنوع يدوياً، يضم معرض الأعمال الإبداعية وسلايد الفيديو السينمائي.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
